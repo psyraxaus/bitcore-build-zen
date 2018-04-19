@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/aayanl/bitcore-build-zen"
+    "url": "git://github.com/zencashofficial/bitcore-build-zen"
   },
   "keywords": [
-    "bitcore"
+    "bitcore",
+    "zen"
   ],
   "contributors": [
+    {
+      "name": "Aayanl"
+    },
     {
       "name": "Esteban Ordano",
       "email": "esteban@bitpay.com"
@@ -33,9 +37,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aayanl/bitcore-build-zen/issues"
+    "url": "https://github.com/zencashofficial/bitcore-build-zen/issues"
   },
-  "homepage": "https://github.com/aayanl/bitcore-build-zen",
+  "homepage": "https://github.com/zencashofficial/bitcore-build-zen",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
